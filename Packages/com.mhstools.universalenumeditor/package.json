@@ -1,0 +1,40 @@
+{
+  "name": "com.mhstools.universalenumeditor",
+  "version": "1.0.0",
+  "displayName": "Universal Enum Editor",
+  "description": "A powerful Unity editor tool for managing enums with smart discovery, direct editing, and validation features.",
+  "unity": "2019.4",
+  "keywords": [
+    "enum",
+    "editor",
+    "tool",
+    "utility",
+    "script",
+    "management"
+  ],
+  "author": {
+    "name": "Hassan",
+    "email": "iamhassan1@gmail.com",
+    "url": "https://github.com/iamhassan1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamhassan1/UniversalEnumEditor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamhassan1/UniversalEnumEditor/issues"
+  },
+  "homepage": "https://github.com/iamhassan1/UniversalEnumEditor#readme",
+  "documentationUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/README.md",
+  "changelogUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/LICENSE",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Usage Example",
+      "description": "Contains sample scripts with enums to demonstrate the tool's functionality",
+      "path": "Samples~/BasicUsage"
+    }
+  ]
+}
