@@ -56,7 +56,7 @@ Managing enums in large Unity projects can be tedious and time-consuming. This t
 1. Open Unity Package Manager: `Window > Package Manager`
 2. Click the **+** button → **Add package from git URL**
 3. Paste this URL:
-   - `https://github.com/iamhassan1/UniversalEnumEditor.git?path=MHSTool/UniversalEnumEditor`
+   - `https://github.com/iamhassan1/universal-enum-editor.git?path=MHSTool/UniversalEnumEditor`
 4. Click **Add**
 
 ### Option 2: Download Unity Package

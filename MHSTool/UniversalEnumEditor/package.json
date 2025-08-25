@@ -15,19 +15,17 @@
   "author": {
     "name": "Hassan",
     "email": "",
-    "url": "https://github.com/iamhassan1/UniversalEnumEditor"
+    "url": "https://github.com/iamhassan1/universal-enum-editor"
   },
   "license": "PolyForm-Noncommercial-1.0.0",
-  "documentationUrl": "https://github.com/iamhassan1/UniversalEnumEditor#-documentation",
-  "changelogUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/iamhassan1/universal-enum-editor#-documentation",
+  "changelogUrl": "https://github.com/iamhassan1/universal-enum-editor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/iamhassan1/universal-enum-editor/blob/main/LICENSE",
   "bugs": {
-    "url": "https://github.com/iamhassan1/UniversalEnumEditor/issues"
+    "url": "https://github.com/iamhassan1/universal-enum-editor/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamhassan1/UniversalEnumEditor.git"
+    "url": "https://github.com/iamhassan1/universal-enum-editor.git"
   }
 }
-
-
