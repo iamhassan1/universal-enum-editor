@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Unity Version](https://img.shields.io/badge/Unity-2019.4+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Noncommercial-green.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-UniversalEnumEditor-brightgreen.svg)
 
 **Streamline enum management in Unity with a powerful, intuitive editor tool.**
@@ -55,7 +55,8 @@ Managing enums in large Unity projects can be tedious and time-consuming. This t
 ### Option 1: Install from Git URL (Recommended)
 1. Open Unity Package Manager: `Window > Package Manager`
 2. Click the **+** button → **Add package from git URL**
-3. Paste this URL: `https://github.com/iamhassan1/universal-enum-editor.git`
+3. Paste this URL:
+   - `https://github.com/iamhassan1/UniversalEnumEditor.git?path=MHSTool/UniversalEnumEditor`
 4. Click **Add**
 
 ### Option 2: Download Unity Package
@@ -173,13 +174,13 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **PolyForm Noncommercial 1.0.0** license — see the [LICENSE](LICENSE) file for details.
 
-**MIT License** means:
-- ✅ Free to use in personal projects
-- ✅ Free to use in commercial projects
-- ✅ Free to modify and distribute
-- ✅ Attribution appreciated but not required
+**Noncommercial License** means:
+- ✅ Free to use, modify, and share for noncommercial purposes
+- ✅ Use in open-source or internal company projects that are not sold
+- ❌ You may not sell this tool or any product/service that includes it
+- ❌ You may not charge for access, licensing, or paid support around it
 
 ---
 

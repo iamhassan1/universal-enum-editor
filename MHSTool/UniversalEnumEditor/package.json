@@ -1,0 +1,33 @@
+{
+  "name": "com.iamhassan.universal-enum-editor",
+  "displayName": "Universal Enum Editor",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Streamline enum management in Unity with a powerful, intuitive editor tool. Discover, edit, and manage enums across your project from a single window.",
+  "keywords": [
+    "enum",
+    "editor",
+    "tool",
+    "code",
+    "utility"
+  ],
+  "category": "Tools",
+  "author": {
+    "name": "Hassan",
+    "email": "",
+    "url": "https://github.com/iamhassan1/UniversalEnumEditor"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/iamhassan1/UniversalEnumEditor#-documentation",
+  "changelogUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/iamhassan1/UniversalEnumEditor/blob/main/LICENSE",
+  "bugs": {
+    "url": "https://github.com/iamhassan1/UniversalEnumEditor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamhassan1/UniversalEnumEditor.git"
+  }
+}
+
+
